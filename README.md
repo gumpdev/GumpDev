@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">Currently working on <a style="text-decoration: none" href="https://store.steampowered.com/app/2761270/Munches/" target="_blank">Munches</a> and <a style="text-decoration: none" href="https://store.steampowered.com/app/3863510/Carteado/" target="_blank">>Carteado</a></p>
+<p align="left">Currently working on <a style="text-decoration: none" href="https://store.steampowered.com/app/2761270/Munches/" target="_blank">Munches</a> and <a style="text-decoration: none" href="https://store.steampowered.com/app/3863510/Carteado/" target="_blank">Carteado</a></p>
 
 ###
 
